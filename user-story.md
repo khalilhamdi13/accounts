@@ -1,24 +1,17 @@
-# User Story Template
+# User Story
 
-## Title
-<!-- Short title of the user story -->
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]
 
-## Description
-As a [type of user],  
-I want [goal],  
-So that [reason].
+## Details and Assumptions
+
+* [document what you know]
 
 ## Acceptance Criteria
 
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] Criterion 3
-
-## Estimation
-Story Points:
-
-## Tasks
-
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the expected outcome is observed]
+```
